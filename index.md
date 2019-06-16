@@ -4,4 +4,4 @@
 - [LA Sprawl](https://gmtim.github.io/LA_Sprawl/)
 
 ## Shop Games
-- [Acquisitions Inc.](https://gmtim.github.io/AcquisitionsInc/)
+- [Acquisitions Inc.](https://gmtim.github.io/AquisitionsInc/)
