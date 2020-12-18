@@ -1,15 +1,16 @@
 # Game Master Tim
 ## Assets
-- [Everyone Is John](https://gmtim.github.io/EveryoneIsJohn/)
-- [Sprawl](https://gmtim.github.io/Sprawl/)
+- [DarkcrawlGen](https://gmtim.bunchofbull.net/EveryoneIsJohn/)
+- [Everyone Is John](https://gmtim.bunchofbull.net/EveryoneIsJohn/)
+- [Sprawl](https://gmtim.bunchofbull.net/Sprawl/)
 
 ## Games
-- [The City](https://gmtim.github.io/TheCity/)
+- [The City](https://gmtim.bunchofbull.net/TheCity/)
 
 ## Shop Games
-- [Acquisitions Inc.](https://gmtim.github.io/AquisitionsInc/)
+- [Acquisitions Inc.](https://gmtim.bunchofbull.net/AquisitionsInc/)
 
 ## Old Games
-- [Haunted Sacramento](https://gmtim.github.io/HauntedSacramento/#!index.md)
-- [LA Sprawl](https://gmtim.github.io/LA_Sprawl/)
-- [The Colony](https://gmtim.github.io/TheColony/)
+- [Haunted Sacramento](https://gmtim.bunchofbull.net/HauntedSacramento/#!index.md)
+- [LA Sprawl](https://gmtim.bunchofbull.net/LA_Sprawl/)
+- [The Colony](https://gmtim.bunchofbull.net/TheColony/)
