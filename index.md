@@ -5,7 +5,7 @@
 - [Sprawl](https://gmtim.bunchofbull.net/Sprawl/)
 
 ## Games
-- [Caveman](https://github.com/GMTim/Caveman-Wiki/)
+- [Caveman](https://gmtim.bunchofbull.net/Caveman-Wiki/)
 - [Transhuman Space](https://gmtim.bunchofbull.net/TranshumanSpace/)
 - [The City](https://gmtim.bunchofbull.net/TheCity/)
 
